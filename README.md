@@ -75,10 +75,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xstiff&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" />
-</div>  
+
 
 <br/>  
 
