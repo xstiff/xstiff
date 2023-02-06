@@ -1,10 +1,10 @@
 ### <div align="center">I'm Dominik, a web developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [My react store](https://github.com/xstiff/react-shop-project)  
+- 🔭 I’m currently working on TBD
   
 
-- 🌱 I’m currently learning React, Firebase, Typescript, Redux, GraphQL  
+- 🌱 I’m currently learning C#, .NET. ASP.NET ...
   
 
 - ⚡ I'm into: IT, technology, electronics, automation, robotics     ... and fishing  
