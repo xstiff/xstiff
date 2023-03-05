@@ -13,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set  
+
 
 <h2> IM CONFIDENT WITH: </h2> 
 <li>HTML / CSS /JS</li>
