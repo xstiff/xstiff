@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on TBD
   
 
-- 🌱 I’m currently learning C#, .NET. ASP.NET ...
+- 🌱 I’m currently learning <b>NODE.JS BACKEND</b>
   
 
-- ⚡ I'm into: IT, technology, electronics, automation, robotics     ... and fishing  
+- ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking
   
 
 <br/>  
