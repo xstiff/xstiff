@@ -23,7 +23,6 @@
 <br/>
 <h2> IM FAMILIAR WITH: </h2> 
 <li>TYPESCRIPT</li>
-<li>FIREBASE</li>
 <li>REDUX</li>
 <li>NODE.JS</li>
 <li>EXPRESS.JS</li>
