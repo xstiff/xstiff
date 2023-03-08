@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning <b>NODE.JS BACKEND</b>
   
 
-- ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking
+- ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking, music
   
 
 <br/>  
