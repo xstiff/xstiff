@@ -26,6 +26,8 @@
 <li>FIREBASE</li>
 <li>REDUX</li>
 <li>NODE.JS</li>
+<li>EXPRESS.JS</li>
+<li>MongoDB - mongoose</li>
 <br/>
 <h2>LANGUAGES:</h2>
 <li>POLISH - NATIVE</li>
