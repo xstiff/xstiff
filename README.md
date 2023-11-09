@@ -1,10 +1,10 @@
 ### <div align="center">I'm Dominik, a web developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on <a href="https://github.com/xstiff/mern-stack-project">Full Stack Project | Express + React + MongoDB</a>
+- 🔭 I’m currently working on <a href="https://github.com/xstiff/dotnet-n-angular">Dating App ( .NET )</a>
   
 
-- 🌱 I’m currently learning <b>NODE.JS BACKEND</b>
+- 🌱 I’m currently learning <b>.NET & Angular</b>
   
 
 - ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking, music
