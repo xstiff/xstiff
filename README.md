@@ -1,10 +1,10 @@
 ### <div align="center">I'm Dominik, a web developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on <a href="https://github.com/xstiff/dotnet-n-angular">Dating App ( .NET )</a>
+- 🔭 I’m currently working on <a href="https://github.com/xstiff/dominikjaworski">my own page</a> &nbsp; <a href="https://dominikjaworski.pl/">Preview here!</a>
   
 
-- 🌱 I’m currently learning <b>.NET & Angular</b>
+- 🌱 I’m currently learning <b>Typescript & React & Next</b>
   
 
 - ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking, music
@@ -24,9 +24,10 @@
 <h2> IM FAMILIAR WITH: </h2> 
 <li>TYPESCRIPT</li>
 <li>REDUX</li>
+<li>NEXT.JS</li>
 <li>NODE.JS</li>
 <li>EXPRESS.JS</li>
-<li>MongoDB - mongoose</li>
+<li>MongoDB</li>
 <br/>
 <h2>LANGUAGES:</h2>
 <li>POLISH - NATIVE</li>
