@@ -1,10 +1,10 @@
 ### <div align="center">I'm Dominik, a web developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on <a href="https://github.com/xstiff/dominikjaworski">my own page</a> <br /> <a href="https://dominikjaworski.pl/">Preview here!</a>
+- 🔭 I’m currently working on <a href="https://github.com/xstiff/dominikjaworski">my own page</a> <br /> <a href="https://dominikjaworski.pl/">Preview hosted on AWS! </a>
   
 
-- 🌱 I’m currently learning <b>Typescript & React & Next</b>
+- 🌱 I’m currently learning <b>Typescript & React & Next & AWS </b>
   
 
 - ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking, music
@@ -28,6 +28,7 @@
 <li>NODE.JS</li>
 <li>EXPRESS.JS</li>
 <li>MongoDB</li>
+<li>AWS & Google Cloud</li>
 <br/>
 <h2>LANGUAGES:</h2>
 <li>POLISH - NATIVE</li>
