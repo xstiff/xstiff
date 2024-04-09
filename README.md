@@ -12,18 +12,16 @@
 
 
 <h2> IM CONFIDENT WITH: </h2> 
+<li>TYPESCRIPT</li>
 <li>HTML / CSS /JS</li>
 <li>REACT</li>
-<li>MYSQL</li>
+<li>SQL SERVER</li>
 <li>REST API</li>
 <br/>
 <h2> IM FAMILIAR WITH: </h2> 
-<li>TYPESCRIPT</li>
-<li>REDUX</li>
-<li>NEXT.JS</li>
-<li>NODE.JS</li>
 <li>EXPRESS.JS</li>
 <li>MongoDB</li>
+<li>DJANGO RESTFRAMEWORK</li>
 <li>AWS & Google Cloud</li>
 <br/>
 <h2>LANGUAGES:</h2>
