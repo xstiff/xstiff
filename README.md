@@ -1,9 +1,5 @@
 ### <div align="center">I'm Dominik, a web developer 👨‍💻 </div>  
   
-
-- 🔭 I’m currently working on <a href="https://github.com/xstiff/dominikjaworski">my own page</a> <br /> <a href="https://dominikjaworski.pl/">Preview hosted on AWS! </a>
-  
-
 - 🌱 I’m currently learning <b>Typescript & React & Next & AWS </b>
   
 
