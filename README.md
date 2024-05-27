@@ -12,7 +12,7 @@
 My AWS & GCP badges: <a href="credly.com/users/dominik-jaworski.40b5335a">Can be found here</a>
 <br /><br />
 Expected graduation: ~December 2025 / ~January 2026 <br />
--> (BUT... I am eagerl to move to part-time studies and work full-time immediately :)!
+-> BUT... I am eagerl to move to part-time studies and work full-time immediately :)!
 <br />
 
 <br />
