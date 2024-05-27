@@ -1,32 +1,17 @@
 ### <div align="center">I'm Dominik, a web developer 👨‍💻 </div>  
-  
-- 🌱 I’m currently learning <b>Typescript & React & Next & AWS </b>
-  
-
 - ⚡ I'm into: IT, technology, electronics, automation, robotics, cooking, music
   
-
 <br/>  
+✋ Developer specializing in React, JavaScript/Typescript, and Python. Experienced in creating responsive websites, integrating RESTful APIs, manipulating data with Python & Excel, and working with SQL databases. Possesses additional experience with Node.js and MongoDB, and is currently expanding skillset to include ASP.NET.
 
+Languages:
+-> English: B2
+-> Polish: Native
 
+My AWS & GCP badges: credly.com/users/dominik-jaworski.40b5335a
 
-
-<h2> IM CONFIDENT WITH: </h2> 
-<li>TYPESCRIPT</li>
-<li>HTML / CSS /JS</li>
-<li>REACT</li>
-<li>SQL SERVER</li>
-<li>REST API</li>
-<br/>
-<h2> IM FAMILIAR WITH: </h2> 
-<li>EXPRESS.JS</li>
-<li>MongoDB</li>
-<li>DJANGO RESTFRAMEWORK</li>
-<li>AWS & Google Cloud</li>
-<br/>
-<h2>LANGUAGES:</h2>
-<li>POLISH - NATIVE</li>
-<li>ENGLISH - B2/C1</li>
+Expected graduation: ~December 2025 / ~January 2026 
+-> (BUT... I am eagerl to move to part-time studies and work full-time immediately :)!
 
 
 <br/>  
