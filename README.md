@@ -8,14 +8,14 @@
 ### Languages:
 -> English: B2
 -> Polish: Native
-</br>
+<br /><br />
 My AWS & GCP badges: <a href="credly.com/users/dominik-jaworski.40b5335a">Can be found here</a>
-</br>
+<br /><br />
 Expected graduation: ~December 2025 / ~January 2026 
 -> (BUT... I am eagerl to move to part-time studies and work full-time immediately :)!
+<br />
 
-
-<br/>  
+<br />
 
 
 ## Connect with me  
