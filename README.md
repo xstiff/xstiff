@@ -3,13 +3,14 @@
   
 <br/>  
 ✋ Developer specializing in React, JavaScript/Typescript, and Python. Experienced in creating responsive websites, integrating RESTful APIs, manipulating data with Python & Excel, and working with SQL databases. Possesses additional experience with Node.js and MongoDB, and is currently expanding skillset to include ASP.NET.
+</br>
 
-Languages:
+### Languages:
 -> English: B2
 -> Polish: Native
-
-My AWS & GCP badges: credly.com/users/dominik-jaworski.40b5335a
-
+</br>
+My AWS & GCP badges: <a href="credly.com/users/dominik-jaworski.40b5335a">Can be found here</a>
+</br>
 Expected graduation: ~December 2025 / ~January 2026 
 -> (BUT... I am eagerl to move to part-time studies and work full-time immediately :)!
 
